@@ -266,7 +266,7 @@ const questions = [
       "d) Pela tábua AT2000, acredita-se que essa pessoa sobrevivirá por mais 52,35 anos.",
       "e) Pela tábua AT2000, acredita-se que essa pessoa sobrevivirá até os 80 anos."
     ],
-    correctAnswer: "E",
+    correctAnswer: "D",
 },
 
 // Nova pergunta 22

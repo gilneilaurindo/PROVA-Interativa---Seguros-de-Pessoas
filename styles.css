@@ -1,4 +1,4 @@
-* { 
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -9,10 +9,9 @@ body {
   background-color: #f0f4f8;
   display: flex;
   flex-direction: column;
-  justify-content: center; /* Centraliza o conteúdo verticalmente */
+  justify-content: space-between;
   align-items: center;
   height: 100vh;
-  padding: 10px; /* Adiciona padding para evitar que o conteúdo fique muito próximo das bordas */
 }
 
 header {
@@ -21,19 +20,18 @@ header {
 }
 
 header h1 {
-  font-size: 1.8rem; /* Tamanho reduzido para melhor visualização em mobile */
+  font-size: 2rem;
   color: #333;
 }
 
 .quiz-container {
   background-color: white;
-  padding: 20px;
+  padding: 20px 40px;
   border-radius: 15px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   width: 100%;
-  max-width: 100%; /* Ajuste para que a largura máxima se adapte ao celular */
+  max-width: 400px;
   text-align: justify; /* Justifica o texto */
-  overflow: hidden; /* Para evitar que o conteúdo saia do container */
 }
 
 #progress-bar {
@@ -45,9 +43,10 @@ header h1 {
 }
 
 h2 {
-  font-size: 1rem; /* Aumenta um pouco o tamanho da pergunta */
+  font-size: .90rem; /* Texto menor para a pergunta */
   margin-bottom: 20px;
   color: #333;
+  text-align: justify; /* Justifica o texto das perguntas */
 }
 
 .options {
@@ -58,7 +57,7 @@ h2 {
   margin-bottom: 15px;
   display: flex;
   align-items: center;
-  font-size: 0.9rem; /* Aumenta um pouco o tamanho do texto */
+  font-size: 0.85rem; /* Texto menor */
 }
 
 input[type="radio"] {
@@ -68,11 +67,12 @@ input[type="radio"] {
 label {
   display: block;
   flex: 1;
-  padding: 12px; /* Aumenta o padding para melhor clique em dispositivos touch */
+  padding: 10px;
   background-color: #f0f4f8;
   border-radius: 8px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  text-align: justify; /* Justifica o texto das opções */
 }
 
 label:hover {
@@ -102,7 +102,7 @@ button {
   border: none;
   border-radius: 10px;
   cursor: pointer;
-  width: 100%; /* Garante que o botão ocupe toda a largura disponível */
+  width: 100%;
   font-size: 1rem;
 }
 

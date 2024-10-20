@@ -148,7 +148,7 @@ const questions = [
       "d) Somente nos planos individuais existe a figura do estipulante.",
       "e) Seguradora pode ser uma pessoa física."
     ],
-    correctAnswer: "c",
+    correctAnswer: "C",
 },
 
 // Nova pergunta 13
@@ -161,7 +161,7 @@ const questions = [
       "d) Elas são classificadas em 'vitalícias' ou 'temporárias', 'renda contínua' ou 'renda aleatória'.",
       "e) Elas são classificadas em 'vitalícias' ou 'periódicas', 'renda certa' ou 'renda financeira'."
     ],
-    correctAnswer: "b",
+    correctAnswer: "B",
 },
 
 // Nova pergunta 14
@@ -174,7 +174,7 @@ const questions = [
       "d) A cada mês, a segurada ou seu representante deverá informar à seguradora sobre a quantidade de diárias de internação a serem pagas.",
       "e) A cobertura em questão garante o reembolso das despesas para o tratamento das consequências de um acidente coberto, e não de uma doença."
     ],
-    correctAnswer: "b",
+    correctAnswer: "B",
 },
 
 // Nova pergunta 15
@@ -187,7 +187,7 @@ const questions = [
       "d) 25%",
       "e) 30%"
     ],
-    correctAnswer: "b",
+    correctAnswer: "B",
 },
 
 // Nova pergunta 16
@@ -200,7 +200,7 @@ const questions = [
       "d) Invalidez Parcial por Acidente.",
       "e) Despesas Médicas, Hospitalares e Odontológicas."
     ],
-    correctAnswer: "e",
+    correctAnswer: "E",
 },
 
 // Nova pergunta 17

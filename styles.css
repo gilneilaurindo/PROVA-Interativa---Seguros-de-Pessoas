@@ -1,0 +1,124 @@
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f4f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centraliza o conteúdo verticalmente */
+  align-items: center;
+  height: 100vh;
+  padding: 10px; /* Adiciona padding para evitar que o conteúdo fique muito próximo das bordas */
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 1.8rem; /* Tamanho reduzido para melhor visualização em mobile */
+  color: #333;
+}
+
+.quiz-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 100%; /* Ajuste para que a largura máxima se adapte ao celular */
+  text-align: justify; /* Justifica o texto */
+  overflow: hidden; /* Para evitar que o conteúdo saia do container */
+}
+
+#progress-bar {
+  height: 5px;
+  background-color: #ddd;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  transition: width 0.3s ease;
+}
+
+h2 {
+  font-size: 1rem; /* Aumenta um pouco o tamanho da pergunta */
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.options {
+  margin-top: 20px;
+}
+
+.option {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  font-size: 0.9rem; /* Aumenta um pouco o tamanho do texto */
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+label {
+  display: block;
+  flex: 1;
+  padding: 12px; /* Aumenta o padding para melhor clique em dispositivos touch */
+  background-color: #f0f4f8;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+label:hover {
+  background-color: #e0e7ed;
+}
+
+#feedback {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 100%; /* Garante que o botão ocupe toda a largura disponível */
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:disabled {
+  background-color: #b0b0b0;
+  cursor: not-allowed;
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+  padding: 10px;
+  font-size: 0.9rem;
+  color: #555;
+}

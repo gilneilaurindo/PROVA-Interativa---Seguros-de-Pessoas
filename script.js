@@ -1,6 +1,6 @@
 const questions = [
   {
-      question: "1º Um cliente foi conversar com seu corretor de seguros para esclarecer suas dúvidas. Primeiramente, perguntou ao corretor se ele (cliente) poderia estipular livremente o capital segurado em seu Seguro de Vida. Em seguida, perguntou se poderia contratar mais de um seguro para ele. Ao analisar as questões, segundo o Código Civil Brasileiro, o corretor deve explicar que:",
+      question: "1. Um cliente foi conversar com seu corretor de seguros para esclarecer suas dúvidas. Primeiramente, perguntou ao corretor se ele (cliente) poderia estipular livremente o capital segurado em seu Seguro de Vida. Em seguida, perguntou se poderia contratar mais de um seguro para ele. Ao analisar as questões, segundo o Código Civil Brasileiro, o corretor deve explicar que:",
       options: [
           "a) Ambas as coisas são possíveis, pois estão previstas no artigo 789 do Código Civil Brasileiro.",
           "b) O capital segurado não pode ser livremente estipulado, mas o cliente pode, sim, contratar mais de um seguro sobre o mesmo interesse.",
@@ -61,7 +61,7 @@ const questions = [
 
 // Nova pergunta 6
 {
-    question: "Uma seguradora está se recusando a pagar a indenização de um Seguro de Vida. Como justificativa, a seguradora alega que o inquérito policial sobre o caso ainda está tramitando. Nesse caso, a seguradora está correta em adotar tal postura?",
+    question: "6. Uma seguradora está se recusando a pagar a indenização de um Seguro de Vida. Como justificativa, a seguradora alega que o inquérito policial sobre o caso ainda está tramitando. Nesse caso, a seguradora está correta em adotar tal postura?",
     options: [
       "a) Não, já que o pagamento da indenização não pode estar condicionado ao término da tramitação de inquérito policial.",
       "b) Não, uma vez que, de acordo com o Código Penal, o inquérito policial deve ser concluído em prazo inferior ao do limite para pagamento da indenização.",
@@ -75,7 +75,7 @@ const questions = [
 
 // Nova pergunta 7
 {
-    question: "Um beneficiário está questionando o corretor, pois já se passaram 30 dias da entrega dos documentos básicos do sinistro à seguradora e, até agora, a indenização não foi paga. O beneficiário alega que a seguradora, inclusive, solicitou uma documentação complementar e, mesmo demorando algumas semanas para providenciar essa documentação, tudo foi entregue. Nesse caso, a demora no pagamento da indenização está acontecendo porque:",
+    question: "7. Um beneficiário está questionando o corretor, pois já se passaram 30 dias da entrega dos documentos básicos do sinistro à seguradora e, até agora, a indenização não foi paga. O beneficiário alega que a seguradora, inclusive, solicitou uma documentação complementar e, mesmo demorando algumas semanas para providenciar essa documentação, tudo foi entregue. Nesse caso, a demora no pagamento da indenização está acontecendo porque:",
     options: [
       "a) O beneficiário não entregou a certidão de nascimento atualizada.",
       "b) A contagem do prazo é suspensa quando há solicitação de documentação complementar e só volta a ser contada após a entrega de toda documentação pelo beneficiário.",
@@ -88,7 +88,7 @@ const questions = [
 
   // Nova pergunta 8
 {
-    question: "Um ano após ter contratado o seu Seguro de Vida, um cliente percebeu que o valor do pagamento foi alterado para um valor maior. De acordo com a seguradora, isso irá acontecer anualmente. Nesse caso, podemos afirmar que:",
+    question: "8. Um ano após ter contratado o seu Seguro de Vida, um cliente percebeu que o valor do pagamento foi alterado para um valor maior. De acordo com a seguradora, isso irá acontecer anualmente. Nesse caso, podemos afirmar que:",
     options: [
       "a) O aumento ocorre porque, a cada ano, o segurado fica mais velho, e todo seguro de vida deve ser recalculado anualmente.",
       "b) O Seguro de Vida desse cliente é estruturado na modalidade de contribuição variável e, por isso, o valor aumenta a cada ano.",
@@ -101,7 +101,7 @@ const questions = [
 
   // Nova pergunta 9
 {
-    question: "Um empresário de uma indústria procurou seu corretor para saber informações sobre seguro de vida coletivo para seus funcionários. Embora ele queira contratar o seguro, o prêmio será pago exclusivamente pelos colaboradores. Nesse caso, podemos afirmar que:",
+    question: "9. Um empresário de uma indústria procurou seu corretor para saber informações sobre seguro de vida coletivo para seus funcionários. Embora ele queira contratar o seguro, o prêmio será pago exclusivamente pelos colaboradores. Nesse caso, podemos afirmar que:",
     options: [
       "a) Ele não poderá contratar o seguro se não pagar pelo menos parte do prêmio.",
       "b) Ele será categorizado como Estipulante Instituidor pois não arcará com o pagamento dos prêmios.",
@@ -114,7 +114,7 @@ const questions = [
 
   // Nova pergunta 10
 {
-    question: "Um cliente em dúvida sobre a estrutura de coberturas dos seguros de Pessoas, procurou seu corretor para explicar a diferença entre essas estruturas. O corretor explicou que os seguros de Pessoas podem ser estruturados em:",
+    question: "10. Um cliente em dúvida sobre a estrutura de coberturas dos seguros de Pessoas, procurou seu corretor para explicar a diferença entre essas estruturas. O corretor explicou que os seguros de Pessoas podem ser estruturados em:",
     options: [
       "a) Benefício Contínuo e Contribuição Variável",
       "b) Benefício Definido e Contribuição Variável",
@@ -127,7 +127,7 @@ const questions = [
 
   // Nova pergunta 11
 {
-    question: " 11. José foi até o RH de sua empresa perguntar sobre o funcionamento da cláusula suplementar de cônjuge e filhos. Adriana, gerente de benefícios da empresa explicou o seguinte.",
+    question: "11. José foi até o RH de sua empresa perguntar sobre o funcionamento da cláusula suplementar de cônjuge e filhos. Adriana, gerente de benefícios da empresa explicou o seguinte.",
     options: [
       "a) Os capitais do cônjuge e filhos não podem ser superiores a 10% do capital do titular do seguro",
       "b) Com a inclusão facultativa de cônjuge e filhos, o colaborador não precisa se pronunciar sobre a aderência à cláusula.",
@@ -140,7 +140,7 @@ const questions = [
 
 // Nova pergunta 12
 {
-    question: "Sobre as partes envolvidas na contratação de um plano de Seguros de Pessoas, é correto afirmar que:",
+    question: "12. Sobre as partes envolvidas na contratação de um plano de Seguros de Pessoas, é correto afirmar que:",
     options: [
       "a) Beneficiário somente pode ser uma pessoa física.",
       "b) Corretor somente pode ser uma pessoa jurídica.",
@@ -153,7 +153,7 @@ const questions = [
 
 // Nova pergunta 13
 {
-    question: "Marianalva sempre pensou que seria bom contratar um seguro de Vida, mas tinha uma questão sobre o recebimento das indenizações pelos beneficiários. Conversando com um corretor, ele explicou que a forma mais comum de recebimento é o capital de uma só vez, mas há planos que admitem o pagamento da indenização de forma periódica. Essas opções podem ser dadas ao beneficiário no momento de recebimento do seguro. No caso de recebimento por renda:",
+    question: "13. Marianalva sempre pensou que seria bom contratar um seguro de Vida, mas tinha uma questão sobre o recebimento das indenizações pelos beneficiários. Conversando com um corretor, ele explicou que a forma mais comum de recebimento é o capital de uma só vez, mas há planos que admitem o pagamento da indenização de forma periódica. Essas opções podem ser dadas ao beneficiário no momento de recebimento do seguro. No caso de recebimento por renda:",
     options: [
       "a) Elas são classificadas em 'fixas' ou 'temporárias', 'renda contínua' ou 'renda aleatória'.",
       "b) Elas são classificadas em 'vitalícias' ou 'temporárias', 'renda certa' ou 'renda aleatória'.",
@@ -166,7 +166,7 @@ const questions = [
 
 // Nova pergunta 14
 {
-    question: "O marido de uma segurada entrou em contato com o corretor para saber quais os procedimentos para dar a entrada na cobertura de DMHO – Despesas Médicas, Hospitalares e Odontológicas. Sua esposa foi internada por conta de uma doença, e não há previsão de alta. Nesse caso, o corretor deve esclarecer que:",
+    question: "14. O marido de uma segurada entrou em contato com o corretor para saber quais os procedimentos para dar a entrada na cobertura de DMHO – Despesas Médicas, Hospitalares e Odontológicas. Sua esposa foi internada por conta de uma doença, e não há previsão de alta. Nesse caso, o corretor deve esclarecer que:",
     options: [
       "a) O aviso de sinistro deve ser feito diretamente junto à seguradora.",
       "b) Será necessário o preenchimento do aviso do sinistro, bem como a cópia dos documentos da segurada e do prontuário médico.",
@@ -179,7 +179,7 @@ const questions = [
 
 // Nova pergunta 15
 {
-    question: "No custo do seguro há um componente chamado carregamento que visa suprir os custos administrativos e comerciais da seguradora, além do lucro. O percentual máximo de carregamento que incide, exclusivamente, sobre os prêmios efetivamente pagos à seguradora para a cobertura estruturada na modalidade de contribuição variável é de:",
+    question: "15. No custo do seguro há um componente chamado carregamento que visa suprir os custos administrativos e comerciais da seguradora, além do lucro. O percentual máximo de carregamento que incide, exclusivamente, sobre os prêmios efetivamente pagos à seguradora para a cobertura estruturada na modalidade de contribuição variável é de:",
     options: [
       "a) 5%",
       "b) 10%",
@@ -192,7 +192,7 @@ const questions = [
 
 // Nova pergunta 16
 {
-    question: "O que indicar para Pedro se ele estivesse interessado numa cobertura de seguro de Pessoas que garantisse o reembolso das despesas para tratamento consequente de um acidente pessoal, limitado ao valor estipulado como capital segurado, desde que indicado sob orientação médica e iniciado nos 30 primeiros dias contados da data do acidente?",
+    question: "16. O que indicar para Pedro se ele estivesse interessado numa cobertura de seguro de Pessoas que garantisse o reembolso das despesas para tratamento consequente de um acidente pessoal, limitado ao valor estipulado como capital segurado, desde que indicado sob orientação médica e iniciado nos 30 primeiros dias contados da data do acidente?",
     options: [
       "a) Invalidez Laboral por doença.",
       "b) Perda da Existência Independente.",
@@ -205,7 +205,7 @@ const questions = [
 
 // Nova pergunta 17
 {
-    question: "Eduardo, um corretor experiente, estava explicando à sua cliente a aplicabilidade da carência no seguro de vida. Ele falou que:",
+    question: "17. Eduardo, um corretor experiente, estava explicando à sua cliente a aplicabilidade da carência no seguro de vida. Ele falou que:",
     options: [
       "a) Os planos com cobertura de risco poderão estabelecer prazo de carência, devendo ser respeitado o limite máximo de seis meses.",
       "b) O prazo de carência para casos de suicídio é de 1 ano a contar do início da vigência da apólice ou do aumento de capital.",
@@ -218,7 +218,7 @@ const questions = [
 
 // Nova pergunta 18
 {
-    question: "Sobre o processo de subscrição, poderíamos afirmar que é uma etapa no seguro de pessoas em que:",
+    question: "18. Sobre o processo de subscrição, poderíamos afirmar que é uma etapa no seguro de pessoas em que:",
     options: [
       "a) O subscritor analisa a proposta e outros documentos e toma a decisão da aceitação do seguro.",
       "b) O analista de sinistro avalia se o seguro tem ou não cobertura.",
@@ -231,7 +231,7 @@ const questions = [
 
 // Nova pergunta 19
 {
-    question: "Fernando iniciou sua carreira numa seguradora. Foi apresentado a várias áreas e o processo que mais chamou sua atenção foi a subscrição. Sua gestora explicou que os principais agentes envolvidos no processo de subscrição são:",
+    question: "19. Fernando iniciou sua carreira numa seguradora. Foi apresentado a várias áreas e o processo que mais chamou sua atenção foi a subscrição. Sua gestora explicou que os principais agentes envolvidos no processo de subscrição são:",
     options: [
       "a) Risco, Proposta e Cálculo",
       "b) Proposta, Cotação e Taxa",
@@ -244,7 +244,7 @@ const questions = [
 
 // Nova pergunta 20
 {
-    question: "Um colaborador de uma empresa petroquímica pediu uma cotação de seguro ao seu corretor e informou que trabalhará alguns meses numa plataforma de petróleo. Após retornar o resultado da análise da sua proposta, pela seguradora, o corretor informou que sua cotação iria ser agravada, pois a atividade profissional em uma plataforma de petróleo oferece mais risco ao segurado. A decisão da seguradora:",
+    question: "20. Um colaborador de uma empresa petroquímica pediu uma cotação de seguro ao seu corretor e informou que trabalhará alguns meses numa plataforma de petróleo. Após retornar o resultado da análise da sua proposta, pela seguradora, o corretor informou que sua cotação iria ser agravada, pois a atividade profissional em uma plataforma de petróleo oferece mais risco ao segurado. A decisão da seguradora:",
     options: [
       "a) Está errada pois não há registros de que o trabalho embarcado numa plataforma de petróleo possui mais risco do que em um escritório da empresa.",
       "b) Está errada pois na plataforma de petróleo há diversos mecanismos de segurança.",
@@ -252,13 +252,13 @@ const questions = [
       "d) Está correta pois o salário de quem trabalha numa plataforma de petróleo é mais alto.",
       "e) Está errada pois o profissional não faz nenhuma atividade de risco na plataforma, sendo responsável somente pela parte da operação de guindaste."
     ],
-    correctAnswer: "c",
+    correctAnswer: "C",
 },
 
 
 // Nova pergunta 21
 {
-    question: "As tábuas Biométricas são instrumentos que medem as probabilidades de sobrevivência e morte. Existem tábuas para medir a sobrevida, ou seja, quanto uma pessoa de determinadas idades provavelmente ainda vai viver. Utilizando a tábua AT 2000 e verificando a idade de 30 anos, a expectativa de vida é de 52,35. Isso é a mesma coisa em dizer que:",
+    question: "21. As tábuas Biométricas são instrumentos que medem as probabilidades de sobrevivência e morte. Existem tábuas para medir a sobrevida, ou seja, quanto uma pessoa de determinadas idades provavelmente ainda vai viver. Utilizando a tábua AT 2000 e verificando a idade de 30 anos, a expectativa de vida é de 52,35. Isso é a mesma coisa em dizer que:",
     options: [
       "a) É a probabilidade dessa pessoa morrer com 52,35 anos.",
       "b) A probabilidade dessa pessoa chegar aos 52,35 anos é de 30%.",
@@ -266,12 +266,12 @@ const questions = [
       "d) Pela tábua AT2000, acredita-se que essa pessoa sobrevivirá por mais 52,35 anos.",
       "e) Pela tábua AT2000, acredita-se que essa pessoa sobrevivirá até os 80 anos."
     ],
-    correctAnswer: "d",
+    correctAnswer: "E",
 },
 
 // Nova pergunta 22
 {
-    question: "Com o falecimento de seu marido, sua esposa procurou o corretor para dar entrada no sinistro do seguro que ele tinha. Ao perguntar o tempo máximo para o pagamento do sinistro, o corretor informou:",
+    question: "22. Com o falecimento de seu marido, sua esposa procurou o corretor para dar entrada no sinistro do seguro que ele tinha. Ao perguntar o tempo máximo para o pagamento do sinistro, o corretor informou:",
     options: [
       "a) 30 dias a partir da entrega do aviso de sinistro.",
       "b) 30 dias a partir da morte do segurado.",
@@ -279,12 +279,12 @@ const questions = [
       "d) 30 dias a partir da análise de sinistro.",
       "e) 30 dias a partir do mês subsequente à entrega de todos os documentos exigidos pela seguradora."
     ],
-    correctAnswer: "c",
+    correctAnswer: "C",
 },
 
 // Nova pergunta 23
 {
-    question: "No processo de sinistro há alguns documentos que são necessários para a regulação. A seguradora deve especificar os documentos básicos previstos para serem apresentados para cada tipo de cobertura, mas pode solicitar outros documentos, desde justificável. É considerada abusiva a inclusão nas condições contratuais de cláusula que disponham sobre a exigência dos seguintes de:",
+    question: "23. No processo de sinistro há alguns documentos que são necessários para a regulação. A seguradora deve especificar os documentos básicos previstos para serem apresentados para cada tipo de cobertura, mas pode solicitar outros documentos, desde justificável. É considerada abusiva a inclusão nas condições contratuais de cláusula que disponham sobre a exigência dos seguintes de:",
     options: [
       "a) Alvará judicial como pressuposto para o cumprimento da obrigação e certidão de nascimento atualizada.",
       "b) Comprovante de identidade dos beneficiários e certidão de nascimento atualizada.",
@@ -292,12 +292,12 @@ const questions = [
       "d) Atestado de óbito e certidão de nascimento dos beneficiários.",
       "e) Comprovante de inquérito policial e certidão de casamento atualizada."
     ],
-    correctAnswer: "a",
+    correctAnswer: "A",
 },
 
 // Nova pergunta 24
 {
-    question: "Durante a regulação do sinistro, Fernanda entregou a documentação solicitada pela seguradora, mas alguns dias depois a seguradora, alegando dúvida fundada e justificável, solicitou outros documentos. Esse procedimento da seguradora está:",
+    question: "24. Durante a regulação do sinistro, Fernanda entregou a documentação solicitada pela seguradora, mas alguns dias depois a seguradora, alegando dúvida fundada e justificável, solicitou outros documentos. Esse procedimento da seguradora está:",
     options: [
       "a) Errado pois Fernanda entregou todos os documentos solicitados.",
       "b) Errado pois Fernanda não tinha os documentos em mãos.",
@@ -305,12 +305,12 @@ const questions = [
       "d) Abusivo, mesmo que haja uma justificativa.",
       "e) Correto, pois a seguradora pode pedir qualquer documento que ache que precisa."
     ],
-    correctAnswer: "c",
+    correctAnswer: "C",
 },
 
 // Nova pergunta 25
 {
-    question: "Um segurado, após 25 meses após a contratação do seguro, cometeu suicídio. Durante a vigência da sua apólice, esta esteve 90 dias suspensa por inadimplência. A seguradora negou o sinistro.",
+    question: "25. Um segurado, após 25 meses após a contratação do seguro, cometeu suicídio. Durante a vigência da sua apólice, esta esteve 90 dias suspensa por inadimplência. A seguradora negou o sinistro.",
     options: [
       "a) A seguradora está certa pois o prazo de carência para casos de suicídio é de 2 anos a partir da vigência do seguro ou da sua recondução, que foi o caso.",
       "b) A seguradora está certa pois suicídio não tem cobertura em nenhum caso.",
@@ -323,7 +323,7 @@ const questions = [
 
 // Nova pergunta 26
 {
-    question: "José procurou seu corretor para contratar um seguro de Vida. O corretor orientou preencher a proposta e a Declaração Pessoal de Saúde. Como José tem diabetes e pressão alta, está acima do peso e é fumante, declarou esses fatos nas respectivas questões do questionário. Após 2 dias, o corretor de José informou que infelizmente a proposta foi recusada pela seguradora. Essa é a descrição de qual processo da seguradora?",
+    question: "26. José procurou seu corretor para contratar um seguro de Vida. O corretor orientou preencher a proposta e a Declaração Pessoal de Saúde. Como José tem diabetes e pressão alta, está acima do peso e é fumante, declarou esses fatos nas respectivas questões do questionário. Após 2 dias, o corretor de José informou que infelizmente a proposta foi recusada pela seguradora. Essa é a descrição de qual processo da seguradora?",
     options: [
       "a) Processo de Sinistro.",
       "b) Processo de Subscrição",
@@ -331,12 +331,12 @@ const questions = [
       "d) Processo de Precificação",
       "e) Processo de Recusa"
     ],
-    correctAnswer: "c",
+    correctAnswer: "C",
 },
 
 // Nova pergunta 27
 {
-    question: "Esses instrumentos são fundamentais para cálculos de seguros quando o assunto é Seguro de Pessoas. As seguradoras, para manterem seu equilíbrio atuarial devem escolher de forma adequada esses instrumentos. Estamos falando de:",
+    question: "27. Esses instrumentos são fundamentais para cálculos de seguros quando o assunto é Seguro de Pessoas. As seguradoras, para manterem seu equilíbrio atuarial devem escolher de forma adequada esses instrumentos. Estamos falando de:",
     options: [
       "a) Tábuas Estatísticas ou de Cálculo",
       "b) Tábuas Atuariais ou Estatísticas",
@@ -344,12 +344,12 @@ const questions = [
       "d) Tábuas de Mortalidade ou Biométricas",
       "e) Tábuas de Precificação ou de Taxas"
     ],
-    correctAnswer: "b",
+    correctAnswer: "B",
 },
 
 // Nova pergunta 28
 {
-    question: "Abreu é um corretor que está se aprimorando em seguro de pessoas. Ele gostaria de saber qual é a taxa pura média cobrada para um grupo segurado e para isso ele tem o prêmio puro de todo o grupo e o capital segurado total desse grupo. Como Abreu deveria proceder para descobrir a taxa pura média desse grupo:",
+    question: "28. Abreu é um corretor que está se aprimorando em seguro de pessoas. Ele gostaria de saber qual é a taxa pura média cobrada para um grupo segurado e para isso ele tem o prêmio puro de todo o grupo e o capital segurado total desse grupo. Como Abreu deveria proceder para descobrir a taxa pura média desse grupo:",
     options: [
       "a) Dividir o prêmio puro de todo o grupo pelo capital segurado total desse grupo.",
       "b) Dividir o capital segurado total do grupo pelo prêmio puro de todo o grupo.",
@@ -362,7 +362,7 @@ const questions = [
 
 // Nova pergunta 29
 {
-    question: "Adriana gostaria de ter uma reserva para daqui há 10 anos fazer a viagem de seus sonhos, mas pensa em proteger o futuro de sua filha, caso um imprevisto aconteça. Dentre vários produtos que viu no mercado, gostou da configuração do produto Dotal, mas ficou com dúvida sobre o Dotal Misto e o Dotal Misto com Performance. Seu corretor explicou:",
+    question: "29. Adriana gostaria de ter uma reserva para daqui há 10 anos fazer a viagem de seus sonhos, mas pensa em proteger o futuro de sua filha, caso um imprevisto aconteça. Dentre vários produtos que viu no mercado, gostou da configuração do produto Dotal, mas ficou com dúvida sobre o Dotal Misto e o Dotal Misto com Performance. Seu corretor explicou:",
     options: [
       "a) Nos produtos Dotais não garante a cobertura de risco, somente de sobrevivência.",
       "b) Os produtos Dotal Misto e Dotal Misto com Performance garantem a cobertura de sobrevivência, mas o Dotal Misto com Performance possui reversão de resultados financeiros.",
@@ -375,7 +375,7 @@ const questions = [
 
 // Nova pergunta 30
 {
-    question: "Os planos Dotais são exclusivos do segmento de pessoas. Sobre esses planos, podemos afirmar que:",
+    question: "30. Os planos Dotais são exclusivos do segmento de pessoas. Sobre esses planos, podemos afirmar que:",
     options: [
       "a) No Dotal Misto com Performance, garante apenas a cobertura de sobrevivência.",
       "b) Os produtos Dotais são estruturados na modalidade de contribuição variável.",
@@ -388,7 +388,7 @@ const questions = [
 
 // Nova pergunta 31
 {
-    question: "Irineu gostaria de diversificar suas economias entre investimentos e seguros. Procurou seu corretor para uma indicação de um plano que além de um plano de seguro, que proporcionasse a reversão parcial ou total de resultados financeiros durante o período de diferimento. O corretor indicou:",
+    question: "31. Irineu gostaria de diversificar suas economias entre investimentos e seguros. Procurou seu corretor para uma indicação de um plano que além de um plano de seguro, que proporcionasse a reversão parcial ou total de resultados financeiros durante o período de diferimento. O corretor indicou:",
     options: [
       "a) No Dotal Misto",
       "b) Qualquer plano da família Dotal.",
@@ -401,7 +401,7 @@ const questions = [
 
 // Nova pergunta 32
 {
-    question: "Marcos gostaria de oferecer um plano de seguro de pessoas para seu cliente Raja para que seu cliente recebesse um capital segurado por sobrevivência ao término de um período de diferimento. Ele conversou com seu cliente sobre o Seguro Dotal Puro, informando o seguinte:",
+    question: "32. Marcos gostaria de oferecer um plano de seguro de pessoas para seu cliente Raja para que seu cliente recebesse um capital segurado por sobrevivência ao término de um período de diferimento. Ele conversou com seu cliente sobre o Seguro Dotal Puro, informando o seguinte:",
     options: [
       "a) Esse produto, além do capital segurado, o cliente terá garantida um capital segurado para o caso de morte.",
       "b) Garante uma remuneração por meio de uma taxa de performance e reversão de resultados.",
@@ -414,7 +414,7 @@ const questions = [
 
 // Nova pergunta 33
 {
-    question: "Um advogado autônomo quer contratar um seguro com coberturas voltadas para Invalidez. Em uma conversa com seu corretor ele afirmou que:",
+    question: "33. Um advogado autônomo quer contratar um seguro com coberturas voltadas para Invalidez. Em uma conversa com seu corretor ele afirmou que:",
     options: [
       "a) Para cada tipo de cobertura, o cliente deve contratar um seguro específico.",
       "b) A invalidez permanente indenizável sempre deve ser comprovada por laudo médico detalhado.",
@@ -427,7 +427,7 @@ const questions = [
 
 // Nova pergunta 34
 {
-    question: "O corretor de seguros Fernando, estava explicando à sua cliente que nos seguros de pessoas há uma cobertura específica para garantir o pagamento de uma indenização em caso de decorrência de diagnóstico de doenças dentre as que estão descritas nas condições contratuais. Ele estava falando da cobertura:",
+    question: "34. O corretor de seguros Fernando, estava explicando à sua cliente que nos seguros de pessoas há uma cobertura específica para garantir o pagamento de uma indenização em caso de decorrência de diagnóstico de doenças dentre as que estão descritas nas condições contratuais. Ele estava falando da cobertura:",
     options: [
       "a) Invalidez Laborativa Permanente Total por Doença (ILPD)",
       "b) Invalidez Funcional Permanente Total por Doença (IFPD)",
@@ -435,12 +435,12 @@ const questions = [
       "d) Doenças Graves (DG)",
       "e) Despesas Médicas, Hospitalares e Odontológicas (DMHO)"
     ],
-    correctAnswer: "d",
+    correctAnswer: "D",
 },
 
 // Nova pergunta 35
 {
-    question: "A cobertura que garante o pagamento do capital segurado ao beneficiário em caso de morte do segurado tanto por causas naturais como acidentais é:",
+    question: "35. A cobertura que garante o pagamento do capital segurado ao beneficiário em caso de morte do segurado tanto por causas naturais como acidentais é:",
     options: [
       "a) Morte Prematura",
       "b) Morte Acidental",
@@ -448,12 +448,12 @@ const questions = [
       "d) Sobrevivência",
       "e) Morte"
     ],
-    correctAnswer: "e",
+    correctAnswer: "E",
 },
 
 // Nova pergunta 36
 {
-    question: "É correto afirmar que existem 2 tipos de período de cobertura quando estamos falando sobre seguro de pessoas:",
+    question: "36. É correto afirmar que existem 2 tipos de período de cobertura quando estamos falando sobre seguro de pessoas:",
     options: [
       "a) Período de Cobertura Provisório e Permanente",
       "b) Período de Cobertura Contínuo e Temporário",
@@ -461,11 +461,11 @@ const questions = [
       "d) Período de Cobertura Crescente e Provisório",
       "e) Período de Cobertura Provisório e Temporário"
     ],
-    correctAnswer: "c",
+    correctAnswer: "C",
 },
 // Nova pergunta 37
 {
-    question: "Quanto aos instrumentos de contratação de seguros, é correto dizer que:",
+    question: "37. Quanto aos instrumentos de contratação de seguros, é correto dizer que:",
     options: [
       "a) A proposta de contratação é utilizada nos seguros individuais e pode ser substituída por uma proposta de adesão",
       "b) A proposta de adesão é utilizada somente nos seguros coletivos",
@@ -477,7 +477,7 @@ const questions = [
 },
 // Pergunta 38
 {
-    question: "A empresa ACME Inc está insatisfeita com os serviços da sua atual seguradora e procurou seu corretor para analisar as possibilidades de troca para uma congênere. O corretor explicou que:",
+    question: "38. A empresa ACME Inc está insatisfeita com os serviços da sua atual seguradora e procurou seu corretor para analisar as possibilidades de troca para uma congênere. O corretor explicou que:",
     options: [
       "a) A transferência da apólice coletiva através de uma migração somente pode ser feita ao término da vigência atual.",
       "b) Uma apólice pode ser encampada por outra seguradora a qualquer momento, mesmo dentro da vigência atual.",
@@ -489,7 +489,7 @@ const questions = [
 },
 // Pergunta 39
 {
-    question: "Tanto nos planos com cobertura de morte estruturados no regime financeiro de capitalização e nos planos com cobertura de sobrevivência, os segurados ou os beneficiários têm alguns valores garantidos. São eles:",
+    question: "39. Tanto nos planos com cobertura de morte estruturados no regime financeiro de capitalização e nos planos com cobertura de sobrevivência, os segurados ou os beneficiários têm alguns valores garantidos. São eles:",
     options: [
       "a) Resgate, Portabilidade, Saldamento e Benefício prolongado",
       "b) Resgate, Portabilidade, Saldamento e Benefício definido",

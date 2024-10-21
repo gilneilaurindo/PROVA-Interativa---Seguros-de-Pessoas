@@ -57,7 +57,7 @@ const questions = [
     "e) Múltiplo Salarial, Uniforme, Escalonado e Global"
   ],
   correctAnswer: "C"
-}
+},
 // Nova pergunta 6
 {
     question: "6. Uma seguradora está se recusando a pagar a indenização de um Seguro de Vida. Como justificativa, a seguradora alega que o inquérito policial sobre o caso ainda está tramitando. Nesse caso, a seguradora está correta em adotar tal postura?",

@@ -50,10 +50,10 @@ const questions = [
   {
       question: "5. Um empresário procurou seu corretor de seguro pois gostaria de contratar um seguro de vida para seus funcionários como parte da cesta de benefícios de sua empresa. Todavia tinha dúvidas de como o capital segurado poderia ser estabelecido. Seu corretor explicou que existem diferentes formas de estabelecer os capitais segurados e, com certeza uma delas seria adequada ao tamanho e tipo da empresa e ao benefício que ele gostaria de proporcionais. Então o corretor explicou as características das modalidades:",
       options: [
-        "a) Essa cobertura somente garante o reembolso das despesas com o funeral do segurado, sem possibilidade de utilizar outros serviços.",
-        "b) Essa cobertura somente garante os serviços de funeral, sem possibilidade de reembolso de despesas, caso o serviço não seja utilizado.",
-        "c) Os beneficiários sempre terão que usar os serviços disponibilizados pela seguradora para o funeral.",
-        "d) Os beneficiários podem optar por outro serviço fora dos padrões oferecidos pela seguradora.",
+     "a) Uniforme, Múltiplo Salarial, Dividido e Global" 
+        "b) Uniforme, Múltiplo Salarial, Determinado e Fixo" 
+        "c) Uniforme, Múltiplo Escalonado e Global Fixo"
+        "d) Único, Múltiplo Escalonado, Global Fixo e Determinado"
         "e) Múltiplo Salarial, Uniforme, Escalonado e Global"
       ],
       correctAnswer: "C"

@@ -47,19 +47,17 @@ const questions = [
       correctAnswer: "A"
   },
   // Nova pergunta 4
-  {
-      question: "5. Um empresário procurou seu corretor de seguro pois gostaria de contratar um seguro de vida para seus funcionários como parte da cesta de benefícios de sua empresa. Todavia tinha dúvidas de como o capital segurado poderia ser estabelecido. Seu corretor explicou que existem diferentes formas de estabelecer os capitais segurados e, com certeza uma delas seria adequada ao tamanho e tipo da empresa e ao benefício que ele gostaria de proporcionais. Então o corretor explicou as características das modalidades:",
-      options: [
-     "a) Uniforme, Múltiplo Salarial, Dividido e Global" 
-        "b) Uniforme, Múltiplo Salarial, Determinado e Fixo" 
-        "c) Uniforme, Múltiplo Escalonado e Global Fixo"
-        "d) Único, Múltiplo Escalonado, Global Fixo e Determinado"
-        "e) Múltiplo Salarial, Uniforme, Escalonado e Global"
-      ],
-      correctAnswer: "C"
-  },
-
-
+{
+  question: "5. Um empresário procurou seu corretor de seguro pois gostaria de contratar um seguro de vida para seus funcionários como parte da cesta de benefícios de sua empresa. Todavia tinha dúvidas de como o capital segurado poderia ser estabelecido. Seu corretor explicou que existem diferentes formas de estabelecer os capitais segurados e, com certeza uma delas seria adequada ao tamanho e tipo da empresa e ao benefício que ele gostaria de proporcionais. Então o corretor explicou as características das modalidades:",
+  options: [
+    "a) Uniforme, Múltiplo Salarial, Dividido e Global", 
+    "b) Uniforme, Múltiplo Salarial, Determinado e Fixo", 
+    "c) Uniforme, Múltiplo Escalonado e Global Fixo",
+    "d) Único, Múltiplo Escalonado, Global Fixo e Determinado",
+    "e) Múltiplo Salarial, Uniforme, Escalonado e Global"
+  ],
+  correctAnswer: "c"
+}
 // Nova pergunta 6
 {
     question: "6. Uma seguradora está se recusando a pagar a indenização de um Seguro de Vida. Como justificativa, a seguradora alega que o inquérito policial sobre o caso ainda está tramitando. Nesse caso, a seguradora está correta em adotar tal postura?",

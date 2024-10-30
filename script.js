@@ -108,7 +108,7 @@ const questions = [
       "d) Ele será categorizado como Estipulante Averbador pois não arcará com nenhuma parte de pagamento do prêmio.",
       "e) Ele será categorizado como Consignante Averbador pois não arcará com nenhuma parte do pagamento do prêmio."
     ],
-    correctAnswer: "B",
+    correctAnswer: "C",
   },
 
   // Nova pergunta 10

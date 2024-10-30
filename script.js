@@ -56,7 +56,7 @@ const questions = [
     "d) Único, Múltiplo Escalonado, Global Fixo e Determinado",
     "e) Múltiplo Salarial, Uniforme, Escalonado e Global"
   ],
-  correctAnswer: "C"
+  correctAnswer: "E"
 },
 // Nova pergunta 6
 {

@@ -44,7 +44,7 @@ const questions = [
           "d) Os beneficiários sempre terão que usar os serviços disponibilizados pela seguradora para o funeral.",
       "e) Essa cobertura garante o reembolso das despesas – até o limite do capital segurado, mas as seguradoras podem oferecer a alternativa de prestação de serviços, sendo garantida a livre escolha dos prestadores, pelos beneficiários."
         ],
-      correctAnswer: "A"
+      correctAnswer: "E"
   },
   // Nova pergunta 4
 {

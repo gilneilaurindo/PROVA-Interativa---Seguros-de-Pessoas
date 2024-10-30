@@ -32,7 +32,7 @@ const questions = [
           "d) É destinado ao segurado e emitido pela seguradora no caso de contratação coletiva, quando da aceitação do proponente, das renovações do seguro e nas alterações de valores do capital segurado ou do prêmio.",
           "e) O proponente (pessoa física ou jurídica) usa para expressar a intenção de contratar uma ou mais coberturas, manifestando pleno conhecimento das condições contratuais"
       ],
-      correctAnswer: "E"
+      correctAnswer: "C"
   },
   // Nova pergunta 4
   {

@@ -173,7 +173,7 @@ const questions = [
       "d) A cada mês, a segurada ou seu representante deverá informar à seguradora sobre a quantidade de diárias de internação a serem pagas.",
       "e) A cobertura em questão garante o reembolso das despesas para o tratamento das consequências de um acidente coberto, e não de uma doença."
     ],
-    correctAnswer: "B",
+    correctAnswer: "E",
 },
 
 // Nova pergunta 15
@@ -225,7 +225,7 @@ const questions = [
       "d) O analista de sinistro estabelece as condições de aceitação do seguro.",
       "e) Não há processo de subscrição nos seguros de pessoas pois a aceitação segue padrões fixados na proposta."
     ],
-    correctAnswer: "E",
+    correctAnswer: "A",
 },
 
 // Nova pergunta 19
@@ -238,7 +238,7 @@ const questions = [
       "d) Taxa, Risco e Proposta",
       "e) Subscritor, Taxa e Proposta"
     ],
-    correctAnswer: "A",
+    correctAnswer: "C",
 },
 
 // Nova pergunta 20
@@ -330,7 +330,7 @@ const questions = [
       "d) Processo de Precificação",
       "e) Processo de Recusa"
     ],
-    correctAnswer: "C",
+    correctAnswer: "B",
 },
 
 // Nova pergunta 27
@@ -343,7 +343,7 @@ const questions = [
       "d) Tábuas de Mortalidade ou Biométricas",
       "e) Tábuas de Precificação ou de Taxas"
     ],
-    correctAnswer: "B",
+    correctAnswer: "D",
 },
 
 // Nova pergunta 28
@@ -356,7 +356,7 @@ const questions = [
       "d) Multiplicar o prêmio puro de todo o grupo pelo capital segurado total desse grupo.",
       "e) Não há como calcular a taxa pura média desse grupo somente com esses dados."
     ],
-    correctAnswer: "B",
+    correctAnswer: "A",
 },
 
 // Nova pergunta 29
@@ -369,7 +369,7 @@ const questions = [
       "d) Somente o produto Dotal Misto garante a cobertura de risco em conjunto com a de sobrevivência.",
       "e) Somente o produto Dotal Misto com Performance garante a cobertura de risco em conjunto com a de sobrevivência."
     ],
-    correctAnswer: "D",
+    correctAnswer: "B",
 },
 
 // Nova pergunta 30
@@ -382,7 +382,7 @@ const questions = [
       "d) Somente o produto Dotal Misto pode ser contratada a cobertura de risco em conjunto com a de sobrevivência.",
       "e) Os produtos Dotal Puro, Dotal Misto e Dotal Misto com Performance são estruturados na modalidade de benefício definido."
     ],
-    correctAnswer: "D",
+    correctAnswer: "E",
 },
 
 // Nova pergunta 31
@@ -408,7 +408,7 @@ const questions = [
       "d) É estruturado na modalidade de benefício definido.",
       "e) É estruturado na modalidade de contribuição variável."
     ],
-    correctAnswer: "E",
+    correctAnswer: "D",
 },
 
 // Nova pergunta 33
@@ -421,7 +421,7 @@ const questions = [
       "d) Se mais de um órgão ou membro for lesionado no mesmo acidente, a indenização será determinada pela soma dos percentuais respectivos constantes na tabela, podendo, em alguns casos, ultrapassar 100%.",
       "e) Quando não é possível estabelecer o grau exato da extensão das lesões, a indenização será calculada com base nos critérios, lesão total, lesão média, lesão inexistente."
     ],
-    correctAnswer: "A",
+    correctAnswer: "B",
 },
 
 // Nova pergunta 34
@@ -484,7 +484,7 @@ const questions = [
       "d) Nos casos de migração de apólice será iniciada a contagem de novo prazo de carência para os segurados incluídos na apólice anterior.",
       "e) Para migração ou encampação de apólice, haverá a necessidade de concordância de no mínimo ¾ do grupo segurado."
     ],
-    correctAnswer: "E",
+    correctAnswer: "C",
 },
 // Pergunta 39
 {
@@ -509,7 +509,7 @@ const questions = [
       "d) Capital escalonado, global, fixo e múltiplo salarial",
       "e) Capital uniforme, múltiplo escalonado, fixo e global"
     ],
-    correctAnswer: "E",
+    correctAnswer: "B",
 },
 
 
